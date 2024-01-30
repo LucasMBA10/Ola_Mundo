@@ -1,2 +1,2 @@
-# Ola_Mundo
+# Study
  First Repository Git & GitHub
